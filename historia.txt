@@ -2,5 +2,4 @@ Esta es la historia de exe
 
 con su primer archivo y repositorio en git
 
-y que lo entiende de a poco
-
+y que no entiende nada
