@@ -2,4 +2,5 @@ Esta es la historia de exe
 
 con su primer archivo y repositorio en git
 
-y que semando solo por moquero
+y que lo entiende de a poco
+
